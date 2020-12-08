@@ -42,3 +42,13 @@
    ### Example
    * yarn add live-server
    * yarn add tailwindcss
+
+5. I created a .gitignore file, which can be created, when starting a new repository on Github. It can also be created using the command line (iTerm for mac users or Commander for PC users) as well as in Webstorm & or Visual Studio Code. The .gitignore file is used to hide files you do not want Github to track, but still can be seen by contributors as well as see what files are hidden/ignored
+   ### Creating .gitignore file examples
+   * Visual Studio Code and Webstorm
+      * File> New> .gitignore
+   * iTerm (mac users) & Commander (PC users)
+      * touch .gitignore & for PC users> cd touch .gitignore
+
+
+   
