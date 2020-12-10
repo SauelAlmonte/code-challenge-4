@@ -50,5 +50,6 @@
    * iTerm (mac users) & Commander (PC users)
       * touch .gitignore & for PC users> cd touch .gitignore
 
+6. 
 
    
