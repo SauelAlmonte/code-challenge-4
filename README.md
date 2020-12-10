@@ -42,6 +42,7 @@
    ### Example
    * yarn add live-server
    * yarn add tailwindcss
+  
 
 5. I created a .gitignore file, which can be created, when starting a new repository on Github. It can also be created using the command line (iTerm for mac users or Commander for PC users) as well as in Webstorm & or Visual Studio Code. The .gitignore file is used to hide files you do not want Github to track, but still can be seen by contributors as well as see what files are hidden/ignored
    ### Creating .gitignore file examples
@@ -49,7 +50,21 @@
       * File> New> .gitignore
    * iTerm (mac users) & Commander (PC users)
       * touch .gitignore & for PC users> cd touch .gitignore
+   * To add files/folders you do not want tracked. Just open .gitignore file in your preffered editor and type the files/folder you do not want tracked. 
 
-6. 
+6. Ran necessary commands to be able to utilize stylecss tailwindcss within HTML
 
+7. Began project by adding to the container a padding, margin with responsive coding. A responsive code allows the site to adjust depending on what device you are on, such as smartphone
+8. Created side navigation which contains
+      * Logo
+      * Home
+      * Search
+      * Your Library
+      * Playlist devider
+      * Created Playlists
+      * Liked SOngs
+      * Install app at the bottom
+
+9. Added other elements which were not required. Did so just incase instructor decides to further the project
+10. Pushed to Vercel
    
